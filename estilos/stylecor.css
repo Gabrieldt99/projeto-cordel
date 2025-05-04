@@ -62,7 +62,7 @@ section p {
 
 section.normal {
     background-color: white;
-    color: black;
+    color: white(255, 255, 255);
 }
 
 section.imagem {
